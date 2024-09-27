@@ -8,7 +8,7 @@ TIMEZONE = 'Asia/Shanghai'
 
 DEFAULT_LANG = 'Chinese (Simplified)'
 
-OUTPUT_PATH = 'doc'
+OUTPUT_PATH = 'docs'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
