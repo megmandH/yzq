@@ -28,5 +28,5 @@ jobs:
 
     - name: Deploy to GitHub Pages
       run: |
-        ghp-import output -b gh-pages
+        ghp-import docs -b gh-pages
         git push -f https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} gh-pages
