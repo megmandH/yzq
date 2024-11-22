@@ -14,7 +14,7 @@ Following is a resume of me.
 
 Education
 ---------
-
+随便写一点更新一下
 2010-2014 (expected)
 :   **PhD, Computer Science**; Awesome University (MyTown)
 
