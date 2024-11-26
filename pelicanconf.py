@@ -10,7 +10,7 @@ DEFAULT_LANG = 'zh_CN'
 
 OUTPUT_PATH = 'docs'
 
-THEME = 'simple'
+# THEME = 'simple'
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
@@ -40,7 +40,7 @@ DELETE_OUTPUT_DIRECTORY = True
 # RELATIVE_URLS = True
 
 MENUITEMS = (
-    ('首页','/he-jing.html'),
+    ('首页','/homepage.html'),
     ('文档','/categories.html'),
     ('关于本站','pages/about-pages.html'),
 )
