@@ -40,7 +40,7 @@ DELETE_OUTPUT_DIRECTORY = True
 # RELATIVE_URLS = True
 
 MENUITEMS = (
-    ('首页','/homepage.html'),
+    ('首页','pages/homepage.html'),
     ('文档','/categories.html'),
     ('关于本站','pages/about-pages.html'),
 )
