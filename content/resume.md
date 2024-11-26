@@ -1,11 +1,11 @@
 Title: He Jing
 Date: 2024-9-26 15:43
-Category: HomePage
+Category: 主页
 
 
 
 ----
->  Following is a resume of me.
+>  这不是个人简介，目前还只是在测试。
 ----
 
 <!DOCTYPE html>

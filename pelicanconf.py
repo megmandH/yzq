@@ -6,10 +6,11 @@ PATH = "content"
 
 TIMEZONE = 'Asia/Shanghai'
 
-DEFAULT_LANG = 'Chinese (Simplified)'
+DEFAULT_LANG = 'zh_CN'
 
 OUTPUT_PATH = 'docs'
 
+# THEME = 'themes/Flex'
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
@@ -32,6 +33,14 @@ SOCIAL = (
 )
 
 DEFAULT_PAGINATION = False
-
+DISPLAY_PAGES_ON_MENU = False
+DISPLAY_CATEGORIES_ON_MENU = False
+DELETE_OUTPUT_DIRECTORY = True
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
+
+MENUITEMS = (
+    ('首页','/he-jing.html'),
+    ('文档','/categories.html'),
+    ('关于本站','pages/about-pages.html'),
+)
