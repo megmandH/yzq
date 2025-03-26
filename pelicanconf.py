@@ -10,7 +10,7 @@ DEFAULT_LANG = 'zh_CN'
 
 OUTPUT_PATH = 'docs'
 
-# THEME = 'simple'
+# THEME = 'themes/alchemy'
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None

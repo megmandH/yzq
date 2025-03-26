@@ -1,0 +1,7 @@
+
+# 忽略
+backup/
+docs/
+themes/
+
+/Makefile
