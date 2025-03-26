@@ -5,3 +5,5 @@ docs/
 themes/
 
 /Makefile
+
+*.pyc
