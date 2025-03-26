@@ -41,8 +41,8 @@ OUTPUT_RETENTION = [".hg", ".git", ".bzr"]
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
 
-MENUITEMS = (
-    ('首页','pages/homepage.html'),
-    ('文档','/categories.html'),
-    ('关于本站','pages/about-pages.html'),
-)
+# MENUITEMS = (
+#     ('首页','pages/homepage.html'),
+#     ('文档','/categories.html'),
+#     ('关于本站','pages/about-pages.html'),
+# )
