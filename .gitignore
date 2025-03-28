@@ -3,6 +3,8 @@
 backup/
 docs/
 themes/
+!themes/notmyidea-cms/
+!themes/notmyidea-cms-fr/
 
 /Makefile
 
