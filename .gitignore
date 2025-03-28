@@ -6,4 +6,5 @@ themes/
 
 /Makefile
 
-# *.pyc
+*.pyc
+__pycache__/
