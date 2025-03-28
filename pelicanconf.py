@@ -1,6 +1,6 @@
 AUTHOR = 'Megmand'
 SITENAME = 'Megmand'
-SITEURL = ""
+SITEURL = "https://megmandh.github.io/yzq/"
 
 PATH = "content"
 
@@ -10,7 +10,7 @@ DEFAULT_LANG = 'zh_CN'
 
 OUTPUT_PATH = 'docs'
 
-THEME = 'themes/notmyidea'
+THEME = 'notmyidea'
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
